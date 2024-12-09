@@ -63,10 +63,5 @@ In this project, I conducted an independent analysis of Chipotle's sales data to
 - **SQL Scripts**: Contains the SQL queries used for data cleaning, metric calculations, and item analysis.
 - **Excel Dashboard**: Contains the Excel workbook with the dynamic dashboard and data analysis.
 
-## Future Enhancements
-- Incorporate **time-based data** (e.g., sales by day, week, or month) to identify trends over time.
-- Use **machine learning models** to predict future sales and customer preferences.
-- Integrate data from multiple Chipotle locations for broader insights.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
